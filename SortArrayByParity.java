@@ -1,5 +1,4 @@
 class Solution {
-
     public int[] sortArrayByParity(int[] nums) {
         int left = 0;
         int right = nums.length - 1;
