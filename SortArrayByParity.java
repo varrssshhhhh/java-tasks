@@ -16,7 +16,6 @@ class Solution {
             if (nums[right] % 2 == 1)
                 right--;
         }
-
         return nums;
     }
 }
